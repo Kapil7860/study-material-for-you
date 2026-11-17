@@ -1,6 +1,6 @@
 // Add your Supabase Project URL and anon/public key. Never use the service_role key here.
-const SUPABASE_URL = "YOUR_SUPABASE_PROJECT_URL";
-const SUPABASE_ANON_KEY = "YOUR_SUPABASE_ANON_PUBLIC_KEY";
+const SUPABASE_URL = "https://apwlcxjeknnekcpjvvbb.supabase.co";
+const SUPABASE_ANON_KEY = "sb_publishable_qhw2c-2kGtf3jI-HpgH_ug_QosGpYsy";
 const BUCKET = "private-videos";
 
 const $ = id => document.getElementById(id);
